@@ -1,2 +1,6 @@
 *.npy
 *.fa
+data/raw/
+data/features/
+*.npy
+*.fa
