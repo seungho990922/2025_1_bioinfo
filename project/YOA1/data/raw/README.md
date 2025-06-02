@@ -1,1 +1,1 @@
-raw data
+# binding sites from paper
